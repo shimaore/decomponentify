@@ -7,7 +7,7 @@ A browserify transform to enable the use of [component.js](https://github.com/co
 Installation is via npm:
 
 ```
-$ npm install decomponentify
+$ npm install decomponentify-1.x
 ```
 
 ## How to use.
@@ -42,7 +42,7 @@ domready(function () {
 Build out your browserify bundle using the decomponentify transform:
 
 ```
-$ browserify -t decomponentify  public/scripts/app.js -o public/scripts/build/bundle.js
+$ browserify -t decomponentify-1.x  public/scripts/app.js -o public/scripts/build/bundle.js
 ```
 
 Then include your bundle.js in your HTML file and you're done!
