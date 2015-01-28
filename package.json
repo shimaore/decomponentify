@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eugeneware/decomponentify"
+    "url": "https://github.com/shimaore/decomponentify"
   },
   "keywords": [
     "component",
     "componentify",
+    "decomponentify",
     "browserify",
     "transform",
     "component.js"
   ],
-  "author": "Eugene Ware <eugene@noblesamurai.com>",
+  "author": "Stéphane Alnet <stephane@shimaore.net> (http://stephane.shimaore.net/)",
   "license": "BSD",
   "dependencies": {
     "through": "~2.3.6",
